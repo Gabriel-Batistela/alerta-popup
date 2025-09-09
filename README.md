@@ -1,23 +1,19 @@
-🚀 Alerta Popup: Aumente a Interação do seu Site!
-Cansado de alerts sem graça? O alerta-popup chegou para transformar a forma como você interage com seus usuários!
+# 🚨 Alerta Popup
 
-Este projeto é uma solução simples e elegante para a criação de popups de confirmação, permitindo que o usuário decida entre proceder ou cancelar uma operação. Perfeito para ações importantes como exclusão de dados, envio de formulários ou confirmações críticas.
+Este projeto é um **componente simples de alerta em popup**, desenvolvido com HTML, CSS e JavaScript, que exibe mensagens de forma clara e destacada na tela do usuário. Ideal para quem deseja implementar notificações rápidas e elegantes em seus projetos web.
 
-✨ Recursos Principais:
-Design Atraente: Desenvolvido com HTML e estilizado com CSS, oferece um visual moderno e limpo.
+## ✨ Funcionalidades
 
-Leve e Rápido: Sem dependências complexas. Adicione-o facilmente ao seu projeto.
+- **Popup Personalizado:** Exibe mensagens de alerta em destaque.  
+- **Interatividade:** Pode ser fechado pelo usuário.  
+- **Design Simples e Limpo:** Facilmente adaptável a diferentes estilos de projetos.  
+- **Reutilizável:** Pode ser integrado em qualquer aplicação web.  
 
-Fácil de Usar: Estrutura clara e intuitiva para integração rápida.
+## 💻 Tecnologias Utilizadas
 
-🛠️ Como Usar:
-Clone o repositório:
+- **HTML5:** Estrutura do alerta popup.  
+- **CSS3:** Estilização e efeitos visuais.  
+- **JavaScript:** Controle da abertura e fechamento do popup.  
 
-Bash
+Feito por **Gabriel Batistela**
 
-git clone https://github.com/Gabriel-Batistela/alerta-popup.git
-Inclua o index.html e a folha de estilo CSS no seu projeto.
-
-Personalize o conteúdo e a estilização conforme sua necessidade!
-
-Feito cpor Gabriel-Batistela.
